@@ -12,4 +12,4 @@
 
 [Excel]: /Excel%20(ML)/
 [Tableau]: https://public.tableau.com/views/SuperstoreDashboard_16448447496050/SalesDashboard
-[Sber]: /Notebooks/SberMarket.ipynb
+[Sber]: /Notebooks/Orders analysis.ipynb
