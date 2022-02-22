@@ -1,6 +1,6 @@
-# Портфолио по Аналитике
+# Портфолио 
 
-## Проекты
+## Проекты по Аналитике
 
 
 | Проект | Технологии | Превью |
@@ -13,3 +13,17 @@
 [Excel]: /Excel%20(ML)/
 [Tableau]: https://public.tableau.com/views/SuperstoreDashboard_16448447496050/SalesDashboard
 [Sber]: /Notebooks/Orders%20analysis.ipynb
+
+
+## Другие проекты
+
+| Проект | Технологии | Ссылка |
+| --- | : ---: | --- |
+| Скрипт для быстрого управления скоростью воспроизведения видео на любом сайте | `JavaScript` | [link][speedControl] |
+| Вспомогательный класс для сброса таблиц БД к их изначальному состоянию (часто встречаемая операция при обучении языку SQL) | `Python` `SQL` | [link][tableHelper] |
+| Сайт с HTML5 + JS играми | `HTML5` `JavaScript` | [link][games], [source][games_source] |
+
+[speedControl]: https://github.com/mksmpc/VideoSpeedControl
+[tableHelper]: https://github.com/mksmpc/SQL_Interactive/tree/main/helpers
+[games]: https://mksmpc.github.io/
+[games_source]: https://github.com/mksmpc/mksmpc.github.io
