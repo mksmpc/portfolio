@@ -6,7 +6,7 @@
 | Проект | Технологии | Превью |
 | --- | :---: | --- |
 | [Дашборд аналитики продаж американского ритейл-магазина][Tableau] | `Tableau` | [<img src="/images/tableau.png" width="250" alt="Tableau">][Tableau] |
-| [Дашборд истории игровой индустрии с 2000 года][Dash] *Возможно 5-секундное ожидание для старта сервера* |`Python` `Dash` `pandas` `plotly` `Heroku`  | [<img src="/images/dash.png" width="250" alt="Dash">][Dash] |
+| [Дашборд истории игровой индустрии с 2000 года][Dash] <br>*Возможно 5-секундное ожидание для старта сервера* |`Python` `Dash` `pandas` `plotly` `Heroku`  | [<img src="/images/dash.png" width="250" alt="Dash">][Dash] |
 | [Анализ динамики заказов СберМаркета][Sber] | `Python` `SQL` `pandas` `matplotlib` `sqlalchemy` | [<img src="/images/sber.png" width="250" alt="SberMarket">][Sber] |
 | [Решение ML задач с помощью Excel][Excel] | `Excel` `ML` |  [<img src="/images/excel.png" width="250" alt="Excel">][Excel]  |
 
